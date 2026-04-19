@@ -1,9 +1,10 @@
 # Hi, I'm Henkka
 
-I build practical Linux and self-hosting projects with a focus on security, automation, and maintainable infrastructure.
+I build and maintain practical Linux and self-hosted infrastructure, focusing on security, automation, and real-world system operations.
 
 ## Areas I work on
 
+- self-hosted infrastructure design
 - Linux server administration
 - Nginx and Fail2ban hardening
 - backup automation
@@ -12,6 +13,12 @@ I build practical Linux and self-hosting projects with a focus on security, auto
 - shell scripting and operational tooling
 
 ## Featured Projects
+
+### Raspberry Pi Self-Hosted Infrastructure
+
+A multi-node self-hosted environment built on Raspberry Pi devices, including media services, cloud storage, DNS filtering, dashboards, automation workflows, and energy monitoring.
+
+Covers architecture, services, operations, and real-world lessons learned from maintaining a live system.
 
 ### Nginx + Fail2ban Hardening
 A practical hardening setup for a self-hosted Linux web service using Nginx, Fail2ban, custom filters, and layered protection concepts.

@@ -45,6 +45,13 @@ I use AI tools as part of my workflow for ideation, debugging, and documentation
 - documenting practical infrastructure projects
 - building a stronger public portfolio on GitHub
 
+## Hardware & Low-Level Linux Projects
+
+- **postmarketOS on Samsung SM-T555**
+  - Repurposed an Android tablet into a Linux device using lk2nd and fastboot
+  - Running postmarketOS with XFCE4
+  - Focus on device bring-up, boot process, and hardware experimentation
+
 ## Interests
 - Self-hosted infrastructure
 - Security hardening

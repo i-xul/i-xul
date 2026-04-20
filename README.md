@@ -29,6 +29,9 @@ An automated SSH-based backup workflow with snapshot rotation, latest-snapshot s
 ### Fail2ban Telegram Notifier
 A lightweight Telegram integration for Fail2ban events to improve real-time visibility into suspicious activity on a self-hosted server.
 
+### Multilingual Log Analysis
+Python-based security log analysis project that detects suspicious multilingual attack patterns, including Cyrillic-based probes and login attempts in server logs.
+
 ## How I work
 
 I use AI tools as part of my workflow for ideation, debugging, and documentation, then test and adapt the final result manually in a real environment.

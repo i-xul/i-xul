@@ -29,6 +29,9 @@ An automated SSH-based backup workflow with snapshot rotation, latest-snapshot s
 ### Fail2ban Telegram Notifier
 A lightweight Telegram integration for Fail2ban events to improve real-time visibility into suspicious activity on a self-hosted server.
 
+### postmarketOS on Samsung SM-T555
+Linux bring-up and documentation for an older ARM tablet using lk2nd, fastboot, and XFCE4
+
 ### Multilingual Log Analysis
 Python-based security log analysis project that detects suspicious multilingual attack patterns, including Cyrillic-based probes and login attempts in server logs.
 

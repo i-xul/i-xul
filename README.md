@@ -1,6 +1,6 @@
 # Hi, I'm Henkka
 
-I build and maintain practical Linux and self-hosted infrastructure, focusing on security, automation, and real-world system operations.
+I build and maintain practical Linux and self-hosted infrastructure, focusing on security, automation, and real-world system operations — from server environments to low-level hardware bring-up.
 
 ## Areas I work on
 
@@ -11,6 +11,7 @@ I build and maintain practical Linux and self-hosted infrastructure, focusing on
 - Raspberry Pi projects
 - self-hosted services
 - shell scripting and operational tooling
+- low-level Linux and hardware bring-up (ARM devices, postmarketOS)
 
 ## Featured Projects
 
@@ -30,7 +31,7 @@ An automated SSH-based backup workflow with snapshot rotation, latest-snapshot s
 A lightweight Telegram integration for Fail2ban events to improve real-time visibility into suspicious activity on a self-hosted server.
 
 ### postmarketOS on Samsung SM-T555
-Linux bring-up and documentation for an older ARM tablet using lk2nd, fastboot, and XFCE4
+Linux bring-up and documentation for an older ARM tablet using lk2nd, fastboot, and XFCE4 — demonstrating Linux deployment on unsupported consumer hardware.
 
 ### Multilingual Log Analysis
 Python-based security log analysis project that detects suspicious multilingual attack patterns, including Cyrillic-based probes and login attempts in server logs.
@@ -44,13 +45,6 @@ I use AI tools as part of my workflow for ideation, debugging, and documentation
 - improving self-hosted Linux server reliability
 - documenting practical infrastructure projects
 - building a stronger public portfolio on GitHub
-
-## Hardware & Low-Level Linux Projects
-
-- **postmarketOS on Samsung SM-T555**
-  - Repurposed an Android tablet into a Linux device using lk2nd and fastboot
-  - Running postmarketOS with XFCE4
-  - Focus on device bring-up, boot process, and hardware experimentation
 
 ## Interests
 - Self-hosted infrastructure

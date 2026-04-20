@@ -38,3 +38,8 @@ I use AI tools as part of my workflow for ideation, debugging, and documentation
 - improving self-hosted Linux server reliability
 - documenting practical infrastructure projects
 - building a stronger public portfolio on GitHub
+
+## Interests
+- Self-hosted infrastructure
+- Security hardening
+- Eastern European history & languages (Finnish, English, some Ukrainian & Swedish)

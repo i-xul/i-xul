@@ -44,3 +44,6 @@ I use AI tools as part of my workflow for ideation, debugging, and documentation
 - Security hardening
 - Electronics & analog circuit design (guitar effects, debugging & modifications)
 - Eastern European history & languages (Finnish, English, some Ukrainian & Swedish)
+
+## Background
+- Vocational qualification in Electronics & Telecommunications

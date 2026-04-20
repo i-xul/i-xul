@@ -42,4 +42,5 @@ I use AI tools as part of my workflow for ideation, debugging, and documentation
 ## Interests
 - Self-hosted infrastructure
 - Security hardening
+- Electronics & analog circuit design (guitar effects, debugging & modifications)
 - Eastern European history & languages (Finnish, English, some Ukrainian & Swedish)
